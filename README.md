@@ -15,3 +15,6 @@ Working in Progress
 # Objetives
 
 I took this educatio program to challenge myself and try to learn a liitle of data science and be able to put in action my leanings
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leozitopaiva/csx4501/HEAD)
